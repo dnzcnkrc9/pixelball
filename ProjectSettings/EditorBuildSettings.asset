@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: f90010b894a688542872213615a7cc70
+  - enabled: 1
+    path: Assets/Scenes/PIXELBALL.unity
+    guid: a7d3130f470ef9646adc8fb097b9d5ec
+  m_configObjects: {}
